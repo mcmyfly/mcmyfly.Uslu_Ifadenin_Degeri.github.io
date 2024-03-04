@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #add8e6; /* Açık mavi arka plan rengi */
+    color: #000; /* Siyah metin rengi */
+  }
+  
+  #result {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
